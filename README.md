@@ -1,4 +1,4 @@
-## A Real-Time Chat Application
+# A Real-Time Chat Application
 Built as a full-stack web application, the system allows users to exchange messages, view contact lists, and manage chat histories with an intuitive and responsive interface. The frontend is designed using React.js with TypeScript, ensuring modularity and scalability, while the backend relies on Express.js, with support for in-memory storage (for testing) and potential MongoDB integration for persistence.
 
 This chat app project not only enhances our understanding of client-server communication but also introduces critical concepts such as:
