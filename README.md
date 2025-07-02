@@ -10,39 +10,39 @@ This chat app project not only enhances our understanding of client-server commu
 5) Scalable architecture using a modular monorepo setup
 
 # Scope of the project
-> This chat application focuses on the following:
-> Real-time text-based messaging
-> User-to-user direct conversations
-> Contact list with last messages
-> Delivery and read status indicators
-> Works on both desktop and mobile
+1) This chat application focuses on the following:
+2) Real-time text-based messaging
+3) User-to-user direct conversations
+4) Contact list with last messages
+5) Delivery and read status indicators
+6) Works on both desktop and mobile
 
 # Tools and Tasks used
 
-> Frontend: React + TypeScript + Tailwind CSS
-> Backend: Express.js (Node.js)
-> State & Queries: React Query
-> Temporary Database: MongoDB
-> Hosting: Localhost (dev)
+! Frontend: React + TypeScript + Tailwind CSS
+! Backend: Express.js (Node.js)
+! State & Queries: React Query
+! Temporary Database: MongoDB
+! Hosting: Localhost (dev)
 
 # Features
 
-> User contact panel
-> Chat window with message bubble design
-> Support for message types: text
-> Auto-scroll on new message
-> Mobile responsive
-> Sort contacts by recent messages
+1) User contact panel
+2) Chat window with message bubble design
+3) Support for message types: text
+4) Auto-scroll on new message
+5) Mobile responsive
+6) Sort contacts by recent messages
 
-Screenshots of the UI design are attached:
+# Screenshots of the UI design are attached:
 
 ![image](https://github.com/user-attachments/assets/d2333cd1-c0a2-4abf-8c8d-48ac37f7f2c0)
 ![image](https://github.com/user-attachments/assets/7ca7f89a-be47-446d-9eb0-9f9c165c5941)
 
 # Conclusion
 The chat app prototype demonstrates a scalable messaging framework using modern tools.
-✅ Successfully implemented user-to-user chat
-✅ Optimized with modular code
-✅ Ready for future database integration and WebSocket support
+1) Successfully implemented user-to-user chat
+2) Optimized with modular code
+3) Ready for future database integration and WebSocket support
 
 
