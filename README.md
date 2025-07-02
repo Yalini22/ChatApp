@@ -19,11 +19,11 @@ This chat app project not only enhances our understanding of client-server commu
 
 # Tools and Tasks used
 
-! Frontend: React + TypeScript + Tailwind CSS
-! Backend: Express.js (Node.js)
-! State & Queries: React Query
-! Temporary Database: MongoDB
-! Hosting: Localhost (dev)
+1) Frontend: React + TypeScript + Tailwind CSS
+2) Backend: Express.js (Node.js)
+3) State & Queries: React Query
+4) Temporary Database: MongoDB
+5) Hosting: Localhost (dev)
 
 # Features
 
