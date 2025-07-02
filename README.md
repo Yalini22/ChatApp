@@ -37,6 +37,7 @@ This chat app project not only enhances our understanding of client-server commu
 # Screenshots of the UI design are attached:
 
 ![image](https://github.com/user-attachments/assets/d2333cd1-c0a2-4abf-8c8d-48ac37f7f2c0)
+
 ![image](https://github.com/user-attachments/assets/7ca7f89a-be47-446d-9eb0-9f9c165c5941)
 
 # Conclusion
