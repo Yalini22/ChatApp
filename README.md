@@ -3,11 +3,11 @@ Built as a full-stack web application, the system allows users to exchange messa
 
 This chat app project not only enhances our understanding of client-server communication but also introduces critical concepts such as:
 
-> State management with React Query
-> RESTful API integration
-> Data handling using TypeScript types
-> Mobile-responsive UI design
-> Scalable architecture using a modular monorepo setup
+1) State management with React Query
+2) RESTful API integration
+3) Data handling using TypeScript types
+4) Mobile-responsive UI design
+5) Scalable architecture using a modular monorepo setup
 
 # Scope of the project
 > This chat application focuses on the following:
